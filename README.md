@@ -5,7 +5,7 @@
 ### 作者：冰红茶  
 ### 参考书籍：《React全栈》 张轩 杨寒星  &&   《深入React技术栈》 陈屹 
 ### 参考源：[Redux 官网](https://redux.js.org/) 
-### [源码地址](https://redux.js.org/) 
+### [源码地址](https://github.com/hblvsjtu/React_Study/tree/master/reduxtest) 
 
 ------    
 
